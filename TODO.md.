@@ -1,0 +1,8 @@
+# TODO
+
+- [ ] Tornar o layout totalmente responsivo (mobile e desktop)
+- [ ] Persistir dados de senhas em backend (ex: SQLite ou MySQL)
+- [ ] Implementar autenticação para atendentes
+- [ ] Criar painel em tempo real usando WebSockets
+- [ ] Adicionar métricas de atendimento (tempo médio por tipo de senha)
+- [ ] Melhorar mensagens de erro e estados vazios (sem filas, sem histórico)
